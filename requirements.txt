@@ -18,4 +18,4 @@ Git
 		
 
 
-обновление git | git update-git-for-windows
+обновление git через командную строку | git update-git-for-windows
