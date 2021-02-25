@@ -15,6 +15,7 @@ module.exports = {
     'semi': 'off',
     'comma-dungle': 'off',
     'require-jsdoc': 'off',
+    'linebreak-style': 'off',
   },
 
 }
